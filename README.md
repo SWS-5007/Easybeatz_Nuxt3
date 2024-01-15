@@ -1,1 +1,0 @@
-# Easybeatz_Nuxt3
